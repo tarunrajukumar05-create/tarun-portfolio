@@ -15,14 +15,14 @@ const links = [
     icon: Linkedin,
     label: 'LinkedIn',
     value: 'linkedin.com/in/tarunraju',
-    href: 'https://linkedin.com/in/tarunraju',
+    href: 'https://www.linkedin.com/in/a-tarun-kumar-raju-064973298/',
     desc: 'Let\'s connect professionally',
   },
   {
     icon: Github,
     label: 'GitHub',
     value: 'github.com/tarunraju227',
-    href: 'https://github.com/tarunraju227',
+    href: 'https://github.com/tarunrajukumar05-create',
     desc: 'Explore my work',
   },
 ]
