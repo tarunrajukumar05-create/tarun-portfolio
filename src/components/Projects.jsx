@@ -10,7 +10,7 @@ const projects = [
     subtitle: 'Anti-Money Laundering · Data Analysis',
     desc: 'A structured SQL-based project to investigate suspicious transaction patterns, flag potential money laundering activities, and generate compliance-ready investigation reports. Covers layering detection, smurfing patterns, and risk scoring.',
     tags: ['SQL', 'AML', 'Fraud Detection', 'KYC', 'Compliance'],
-    github: 'https://github.com/tarunraju227',
+    github: 'https://github.com/tarunrajukumar05-create',
     featured: true,
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     subtitle: 'Risk Analysis · Excel + SQL',
     desc: 'Built a workflow to detect anomalous transaction volumes and flag accounts for enhanced due diligence (EDD), using behavioral baselines and rule-based triggers.',
     tags: ['Excel', 'SQL', 'Risk Ops', 'EDD'],
-    github: 'https://github.com/tarunraju227',
+    github: 'https://github.com/tarunrajukumar05-create',
     featured: false,
   },
   {
@@ -28,7 +28,7 @@ const projects = [
     subtitle: 'Process Tracking · Reporting',
     desc: 'Designed an internal reporting structure to track KYC verification queues, case resolution times, and CDD completion rates across customer segments.',
     tags: ['KYC', 'CDD', 'Excel', 'Reporting'],
-    github: 'https://github.com/tarunraju227',
+    github: 'https://github.com/tarunrajukumar05-create',
     featured: false,
   },
 ]
