@@ -20,7 +20,7 @@ export default function Footer() {
             <Mail size={15} />
           </a>
           <a
-            href="https://linkedin.com/in/tarunraju"
+            href="https://www.linkedin.com/in/a-tarun-kumar-raju-064973298/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full border border-white/8 text-slate-500 hover:text-gold-400 hover:border-gold-500/30 transition-all"
@@ -28,7 +28,7 @@ export default function Footer() {
             <Linkedin size={15} />
           </a>
           <a
-            href="https://github.com/tarunraju227"
+            href="https://github.com/tarunrajukumar05-create"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full border border-white/8 text-slate-500 hover:text-gold-400 hover:border-gold-500/30 transition-all"
